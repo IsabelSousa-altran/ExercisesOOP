@@ -13,6 +13,16 @@ namespace SecondExampleMethods
             return Price * StockQuantity;
         }
 
+        public void AddProduct(int quantity)
+        {
+            StockQuantity = StockQuantity + quantity;
+        }
+
+        public void RemoveProduct(int quantity)
+        {
+            StockQuantity = StockQuantity - quantity;
+        }
+
         public override string ToString()
         {
             return Name 
