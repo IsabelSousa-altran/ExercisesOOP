@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternativeSyntax_Initializ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThisExample", "ThisExample\ThisExample.csproj", "{02041FBA-17D7-4E3F-ABF5-AA00D9C535E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation_AutoProperties", "Encapsulation_AutoProperties\Encapsulation_AutoProperties.csproj", "{61CF6B14-8AC5-40C0-9078-246F4950E3DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{02041FBA-17D7-4E3F-ABF5-AA00D9C535E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02041FBA-17D7-4E3F-ABF5-AA00D9C535E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02041FBA-17D7-4E3F-ABF5-AA00D9C535E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CF6B14-8AC5-40C0-9078-246F4950E3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CF6B14-8AC5-40C0-9078-246F4950E3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CF6B14-8AC5-40C0-9078-246F4950E3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CF6B14-8AC5-40C0-9078-246F4950E3DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
