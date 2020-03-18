@@ -7,8 +7,6 @@ namespace Constructors
     {
         static void Main(string[] args)
         {
-           
-
             Console.WriteLine("Enter product data:"); 
 
             Console.Write("Name: "); 
@@ -25,7 +23,8 @@ namespace Constructors
 
             Console.WriteLine(); 
             Console.Write("Enter the number of products to be added to stock: "); 
-            int quantity = int.Parse(Console.ReadLine()); product.AddProducts(quantity);
+            int quantity = int.Parse(Console.ReadLine()); 
+            product.AddProducts(quantity);
 
             Console.WriteLine(); 
             Console.WriteLine("Updated Data: " + product);
