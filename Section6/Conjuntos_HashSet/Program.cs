@@ -46,10 +46,12 @@ namespace Conjuntos_HashSet
 
             // Diferença entre conjuntos - Remove do conjunto A todos os iguais ao conjunto B
             A.ExceptWith(B);
-            foreach (int x in A)
-            {
-                Console.WriteLine(x);
-            }
+
+            // Une um conjunto com o outro - vê quais são os valores diferentes de B e acrescenta em A
+            A.UnionWith(B);
+
+            // Verifica quais os iguais em cada conjunto
+            A.IntersectWith(B);
 
             B.Remove(7);
 
