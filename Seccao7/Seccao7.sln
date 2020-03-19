@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTime_Properties", "Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSpan_Properties", "TimeSpan_Properties\TimeSpan_Properties.csproj", "{C7DBBD4B-3EFF-4835-A093-3FF578F16578}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeKind_ISO", "DateTimeKind_ISO\DateTimeKind_ISO.csproj", "{58607FB6-8E28-4B0D-BE79-69296A8284F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C7DBBD4B-3EFF-4835-A093-3FF578F16578}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7DBBD4B-3EFF-4835-A093-3FF578F16578}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7DBBD4B-3EFF-4835-A093-3FF578F16578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58607FB6-8E28-4B0D-BE79-69296A8284F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58607FB6-8E28-4B0D-BE79-69296A8284F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58607FB6-8E28-4B0D-BE79-69296A8284F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58607FB6-8E28-4B0D-BE79-69296A8284F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
