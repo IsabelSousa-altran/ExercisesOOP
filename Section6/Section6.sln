@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref_Out", "Ref_Out\Ref_Out.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach_Example", "Foreach_Example\Foreach_Example.csproj", "{21516D58-7E66-4671-8BED-011F7D637A3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_Lists_AddInsert", "Example_Lists_AddInsert\Example_Lists_AddInsert.csproj", "{A3F3CA73-38CB-43AF-BBC7-DC27E5342742}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{21516D58-7E66-4671-8BED-011F7D637A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21516D58-7E66-4671-8BED-011F7D637A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21516D58-7E66-4671-8BED-011F7D637A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F3CA73-38CB-43AF-BBC7-DC27E5342742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F3CA73-38CB-43AF-BBC7-DC27E5342742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F3CA73-38CB-43AF-BBC7-DC27E5342742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F3CA73-38CB-43AF-BBC7-DC27E5342742}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
