@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProposedExercise_Lists", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz_ExerciseExample", "Matriz_ExerciseExample\Matriz_ExerciseExample.csproj", "{CDE890C9-A942-4AE5-A090-A1E67B944AAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz_ProposedExercise", "Matriz_ProposedExercise\Matriz_ProposedExercise.csproj", "{CBC61BD5-A1DD-44A7-82AE-F5BD8EB55AB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CDE890C9-A942-4AE5-A090-A1E67B944AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDE890C9-A942-4AE5-A090-A1E67B944AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDE890C9-A942-4AE5-A090-A1E67B944AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC61BD5-A1DD-44A7-82AE-F5BD8EB55AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC61BD5-A1DD-44A7-82AE-F5BD8EB55AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC61BD5-A1DD-44A7-82AE-F5BD8EB55AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC61BD5-A1DD-44A7-82AE-F5BD8EB55AB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
