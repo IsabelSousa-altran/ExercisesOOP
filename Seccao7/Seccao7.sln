@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Case_Example", "Switch_Case_Example\Switch_Case_Example.csproj", "{6F1531B9-0F60-42F6-BDF3-D0D9B28B3831}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondicionalTernaria", "CondicionalTernaria\CondicionalTernaria.csproj", "{D9F2B064-236D-46B8-8198-65343FAD0AA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6F1531B9-0F60-42F6-BDF3-D0D9B28B3831}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F1531B9-0F60-42F6-BDF3-D0D9B28B3831}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F1531B9-0F60-42F6-BDF3-D0D9B28B3831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F2B064-236D-46B8-8198-65343FAD0AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F2B064-236D-46B8-8198-65343FAD0AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F2B064-236D-46B8-8198-65343FAD0AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F2B064-236D-46B8-8198-65343FAD0AA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
