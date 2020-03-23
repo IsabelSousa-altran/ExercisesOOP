@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Override,_Virtual_Base", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_MethodsSealed", "Class_MethodsSealed\Class_MethodsSealed.csproj", "{B6A3E4CC-10BD-42B3-B70D-AEB58BC799C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolvedExercise_InheritagePolimorfism", "ResolvedExercise_InheritagePolimorfism\ResolvedExercise_InheritagePolimorfism.csproj", "{8A713B30-FBC1-41A9-9B88-21F57A21E5B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B6A3E4CC-10BD-42B3-B70D-AEB58BC799C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6A3E4CC-10BD-42B3-B70D-AEB58BC799C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6A3E4CC-10BD-42B3-B70D-AEB58BC799C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A713B30-FBC1-41A9-9B88-21F57A21E5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A713B30-FBC1-41A9-9B88-21F57A21E5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A713B30-FBC1-41A9-9B88-21F57A21E5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A713B30-FBC1-41A9-9B88-21F57A21E5B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
