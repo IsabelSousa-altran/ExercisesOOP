@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses_Example", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractMethods_ResolvedExercise", "AbstractMethods_ResolvedExercise\AbstractMethods_ResolvedExercise.csproj", "{DB4BAB82-F084-4486-AD47-B392C2C84E41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProposedExercise_AbstractMethods", "ProposedExercise_AbstractMethods\ProposedExercise_AbstractMethods.csproj", "{BF818E2C-282E-4B34-A234-9163785F78C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{DB4BAB82-F084-4486-AD47-B392C2C84E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB4BAB82-F084-4486-AD47-B392C2C84E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB4BAB82-F084-4486-AD47-B392C2C84E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF818E2C-282E-4B34-A234-9163785F78C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF818E2C-282E-4B34-A234-9163785F78C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF818E2C-282E-4B34-A234-9163785F78C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF818E2C-282E-4B34-A234-9163785F78C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
