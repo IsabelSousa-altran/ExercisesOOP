@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Example", "Heranca_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpCasting_Example", "UpCasting_Example\UpCasting_Example.csproj", "{84A8C8CD-8FC2-40EC-8AE0-740DEEB6BDF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Override,_Virtual_Base", "Override,_Virtual_Base\Override,_Virtual_Base.csproj", "{C0F30A5A-2C6D-4AB2-AD93-C4B66537DACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{84A8C8CD-8FC2-40EC-8AE0-740DEEB6BDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84A8C8CD-8FC2-40EC-8AE0-740DEEB6BDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84A8C8CD-8FC2-40EC-8AE0-740DEEB6BDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F30A5A-2C6D-4AB2-AD93-C4B66537DACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F30A5A-2C6D-4AB2-AD93-C4B66537DACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F30A5A-2C6D-4AB2-AD93-C4B66537DACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F30A5A-2C6D-4AB2-AD93-C4B66537DACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
