@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialTopics", "SpecialTopics\SpecialTopics.csproj", "{D6FB4A24-4B1B-4EB9-9964-06CC4AA8A885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialTopica2", "SpecialTopica2\SpecialTopica2.csproj", "{DD621F13-9CF2-424D-9510-3532919DA566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6FB4A24-4B1B-4EB9-9964-06CC4AA8A885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FB4A24-4B1B-4EB9-9964-06CC4AA8A885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FB4A24-4B1B-4EB9-9964-06CC4AA8A885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FB4A24-4B1B-4EB9-9964-06CC4AA8A885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD621F13-9CF2-424D-9510-3532919DA566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD621F13-9CF2-424D-9510-3532919DA566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD621F13-9CF2-424D-9510-3532919DA566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD621F13-9CF2-424D-9510-3532919DA566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5888529-C2CF-4ECF-B136-E358C61DA6E4}
+	EndGlobalSection
+EndGlobal
