@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ihneritanceVSinterface", "i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceVSInterface_FinalExercise", "InheritanceVSInterface_FinalExercise\InheritanceVSInterface_FinalExercise.csproj", "{56EF994D-A7B3-482E-BD83-580B9DC4BEE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icomparable_Example", "Icomparable_Example\Icomparable_Example.csproj", "{3762084D-3F43-4339-8605-E56EEDE76712}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{56EF994D-A7B3-482E-BD83-580B9DC4BEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56EF994D-A7B3-482E-BD83-580B9DC4BEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56EF994D-A7B3-482E-BD83-580B9DC4BEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3762084D-3F43-4339-8605-E56EEDE76712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3762084D-3F43-4339-8605-E56EEDE76712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3762084D-3F43-4339-8605-E56EEDE76712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3762084D-3F43-4339-8605-E56EEDE76712}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
