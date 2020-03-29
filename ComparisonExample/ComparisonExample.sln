@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_Predicate", "Deleg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_Action", "Delegate_Action\Delegate_Action.csproj", "{5788C083-A9A5-4920-A604-2202AB88C215}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegat_Func", "Delegat_Func\Delegat_Func.csproj", "{BA29FC95-E4AE-475D-AAFC-D87862EC5391}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5788C083-A9A5-4920-A604-2202AB88C215}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5788C083-A9A5-4920-A604-2202AB88C215}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5788C083-A9A5-4920-A604-2202AB88C215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA29FC95-E4AE-475D-AAFC-D87862EC5391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA29FC95-E4AE-475D-AAFC-D87862EC5391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA29FC95-E4AE-475D-AAFC-D87862EC5391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA29FC95-E4AE-475D-AAFC-D87862EC5391}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
