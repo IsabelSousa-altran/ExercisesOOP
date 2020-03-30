@@ -16,7 +16,11 @@ namespace Delegat_Func
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("HD Case", 80.90));
 
-            List<string> result = list.Select(NameUpper).ToList();
+            // Func<Product, string> func = p => p.Name.ToUpper();;
+
+            Func<Product, string> func = NameUpper;
+
+            List<string> result = list.Select(func).ToList();
             foreach (string item in result)
             {
                 Console.WriteLine(item);
